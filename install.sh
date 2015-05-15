@@ -9,7 +9,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 PRE_PUSH=$TARGET_REPO/.git/hooks/pre-push
 
 if which start >/dev/null; then
-    PLAYER=start
+    echo ":)"
 else
     echo "Could not find start (windows)"
     exit 0
