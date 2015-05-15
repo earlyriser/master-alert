@@ -1,5 +1,4 @@
 # master-alert
-# master-alert
 
 Play a sound everytime you push some code to a git master branch. Besides the outreagous joy this adds to your normal development rutine, it helps notifying other developers in the room that maybe they need to pull some code.
 
